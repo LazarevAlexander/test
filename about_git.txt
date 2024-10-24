@@ -1,0 +1,11 @@
+git init - инициализация
+Git add - добавление
+Git commit -m "comment" - фиксация
+Git push - отправка на удаленный репозиторий
+Git pull - выгрузка с удал репозитория
+Git clone - выгрузить удал репозитория
+Git branch - посмотреть в какой ветке
+Git branch primer - создание ветки primer
+Git checkout primer - переключение на ветку primer
+Git merge - слияние двух веток
+ 
